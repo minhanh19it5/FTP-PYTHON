@@ -1,0 +1,10 @@
+#Ignoring Testing Folders and Files
+HOME
+Downloads
+*.pdf
+*.mp4
+*.jpeg
+*.jpg
+*.hbs
+*.odt
+*.vscode
